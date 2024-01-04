@@ -41,8 +41,8 @@ def video_to_frames(input_video, output_folder):
 
 if __name__ == "__main__":
     # Specify the input video file and output folder
-    input_video = "path/to/your/video.mp4"
-    output_folder = "path/to/your/output/folder"
+    input_video = "/media/agx/EXTERNAL_USB/Solaris/data/227_2023-12-12_103719.mp4"
+    output_folder = "/media/agx/EXTERNAL_USB/Solaris/data/output"
 
     # Convert video to frames
     video_to_frames(input_video, output_folder)
